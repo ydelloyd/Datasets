@@ -43,5 +43,14 @@
         "player4": "Brendon Todd",
         "player5": "Brendon Todd",
         "tiebreaker": -68
+    },
+    {
+        "team": "Big Winner",
+        "player1": "Jordan Spieth",
+        "player2": "Charlie Hoffman",
+        "player3": "Lucas Glover",
+        "player4": "Gary Woodland",
+        "player5": "Matt Kuchar",
+        "tiebreaker": -33
     }
 ]
