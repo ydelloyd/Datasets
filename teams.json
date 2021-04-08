@@ -15,7 +15,7 @@
         "player3": "Bryson DeChambeau",
         "player4": "Billy Horschel",
         "player5": "Zach Johnson",
-        "tiebreaker": -69
+        "tiebreaker": -12
     },
     {
         "team": "Tim Burroughs",
@@ -33,6 +33,186 @@
         "player3": "Hideki Matsuyama",
         "player4": "Si Woo Kim",
         "player5": "Kevin Na",
-        "tiebreaker": -68
+        "tiebreaker": -12
+    },
+    {
+        "team": "John Cole",
+        "tiebreaker": "-33",
+        "player1": "Justin Thomas",
+        "player2": "Bryson Dechambeau",
+        "player3": "Jordan Spieth",
+        "player4": "Dylan Frittelli",
+        "player5": "Zach Johnson"
+    },
+    {
+        "team": "York Delloyd",
+        "tiebreaker": "-36",
+        "player1": "Dustin Johnson",
+        "player2": "Justin Thomas",
+        "player3": "Jordan Spieth",
+        "player4": "Max Homa",
+        "player5": "C.T. Pan"
+    },
+    {
+        "team": "Stan Guy",
+        "tiebreaker": "-21",
+        "player1": "Dustin Johnson",
+        "player2": "Justin Thomas",
+        "player3": "Patrick Reed",
+        "player4": "Abraham Ancer",
+        "player5": "Kevin Na"
+    },
+    {
+        "team": "Dennis Hanson Jr",
+        "tiebreaker": "-32",
+        "player1": "Dustin Johnson",
+        "player2": "Justin Thomas",
+        "player3": "Jon Rahm",
+        "player4": "Shane Lowry",
+        "player5": "Kevin Na"
+    },
+    {
+        "team": "Dennis Hanson SR",
+        "tiebreaker": "-36",
+        "player1": "Jon Rahm",
+        "player2": "Patrick Reed",
+        "player3": "Dustin Johnson",
+        "player4": "Abraham Ancer",
+        "player5": "Sebastian Munoz"
+    },
+    {
+        "team": "Jeff Kaneko",
+        "tiebreaker": "-29",
+        "player1": "Collin Morikawa",
+        "player2": "Rory McIlroy",
+        "player3": "Cameron Smith",
+        "player4": "Cameron Champ",
+        "player5": "C.T. Pan"
+    },
+    {
+        "team": "Rich Kaneko",
+        "tiebreaker": "-18",
+        "player1": "Jordan Spieth",
+        "player2": "Justin Thomas",
+        "player3": "Collin Morikawa",
+        "player4": "Louis Oosthuizen",
+        "player5": "Kevin Na"
+    },
+    {
+        "team": "Joe Leffler",
+        "tiebreaker": "-27",
+        "player1": "Dustin Johnson",
+        "player2": "Justin Thomas",
+        "player3": "Jordan Spieth",
+        "player4": "Louis Oosthuizen",
+        "player5": "Zach Johnson"
+    },
+    {
+        "team": "Mike McNown",
+        "tiebreaker": "-19",
+        "player1": "Collin Morikawa",
+        "player2": "Xander Schauffele",
+        "player3": "Jon Rahm",
+        "player4": "Brian Harman",
+        "player5": "Kevin Na"
+    },
+    {
+        "team": "Matt Moseley",
+        "tiebreaker": "-17",
+        "player1": "Dustin Johnson",
+        "player2": "Jordan Spieth",
+        "player3": "Matthew Fitzpatrick",
+        "player4": "Harris English",
+        "player5": "Sebastian Munoz"
+    },
+    {
+        "team": "Devin Page",
+        "tiebreaker": "-24",
+        "player1": "Bryson Dechambeau",
+        "player2": "Lee Westwood",
+        "player3": "Justin Thomas",
+        "player4": "Matthew Wolff",
+        "player5": "Brendon Todd"
+    },
+    {
+        "team": "Bill Paiter",
+        "tiebreaker": "-26",
+        "player1": "Jordan Spieth",
+        "player2": "Justin Thomas",
+        "player3": "Rory McIlroy",
+        "player4": "Matthew Wolff",
+        "player5": "Brendon Todd"
+    },
+    {
+        "team": "Clay Prickett",
+        "tiebreaker": "-15",
+        "player1": "Justin Thomas",
+        "player2": "Jon Rahm",
+        "player3": "Collin Morikawa",
+        "player4": "Will Zalatoris",
+        "player5": "Ryan Palmer"
+    },
+    {
+        "team": "Wayne Reynolds",
+        "tiebreaker": "-31",
+        "player1": "Jordan Spieth",
+        "player2": "Brooks Koepka",
+        "player3": "Collin Morikawa",
+        "player4": "Matt Wallace",
+        "player5": "Zach Johnson"
+    },
+    {
+        "team": "John Rowell #1",
+        "tiebreaker": "-25",
+        "player1": "Justin Thomas",
+        "player2": "Justin Rose",
+        "player3": "Dustin Johnson",
+        "player4": "Billy Horschel",
+        "player5": "Byeong Hun An"
+    },
+    {
+        "team": "John Rowell #2",
+        "tiebreaker": "-33",
+        "player1": "Dustin Johnson",
+        "player2": "Collin Morikawa",
+        "player3": "Daniel Berger",
+        "player4": "Kevin Kisner",
+        "player5": "C.T. Pan"
+    },
+    {
+        "team": "Stephen Snipes",
+        "tiebreaker": "-20",
+        "player1": "Jordan Spieth",
+        "player2": "Justin Thomas",
+        "player3": "Bryson Dechambeau",
+        "player4": "Louis Oosthuizen",
+        "player5": "Byeong Hun An"
+    },
+    {
+        "team": "John Thigpin",
+        "tiebreaker": "-18",
+        "player1": "Justin Thomas",
+        "player2": "Jordan Spieth",
+        "player3": "Bryson Dechambeau",
+        "player4": "Will Zalatoris",
+        "player5": "Sebastian Munoz"
+    },
+    {
+        "team": "Tom Walker",
+        "tiebreaker": "-27",
+        "player1": "Dustin Johnson",
+        "player2": "Collin Morikawa",
+        "player3": "Justin Thomas",
+        "player4": "Si Woo Kim",
+        "player5": "Zach Johnson"
+    },
+    {
+        "team": "Joe Wirthman",
+        "tiebreaker": "-27",
+        "player1": "Dustin Johnson",
+        "player2": "Jordan Spieth",
+        "player3": "Patrick Cantlay",
+        "player4": "Shane Lowry",
+        "player5": "Erik Van Rooyen"
     }
 ]
