@@ -1,56 +1,38 @@
 [
     {
-        "team": "York",
-        "player1": "Dustin Johnson",
-        "player2": "Bryson DeChambeau",
-        "player3": "Justin Thomas",
-        "player4": "Dylan Frittelli",
-        "player5": "Phil Mickelson",
-        "tiebreaker": -21
-    },
-    {
-        "team": "Eric",
-        "player1": "Tiger Woods",
-        "player2": "Bryson DeChambeau",
-        "player3": "Justin Thomas",
-        "player4": "Dylan Frittelli",
-        "player5": "Brendon Todd",
-        "tiebreaker": -69
-    },
-    {
-        "team": "Eric2",
-        "player1": "Tiger Woods",
-        "player2": "Bryson DeChambeau",
-        "player3": "Justin Thomas",
-        "player4": "Dylan Frittelli",
-        "player5": "Brendon Todd",
-        "tiebreaker": -69
-    },
-    {
-        "team": "Alex",
-        "player1": "Tiger Woods",
-        "player2": "Bryson DeChambeau",
-        "player3": "Justin Thomas",
-        "player4": "Dylan Frittelli",
-        "player5": "Brendon Todd",
-        "tiebreaker": -68
-    },
-    {
-        "team": "Big Loser",
-        "player1": "Tiger Woods",
-        "player2": "Bryson DeChambeau",
-        "player3": "Brendon Todd",
-        "player4": "Brendon Todd",
-        "player5": "Brendon Todd",
-        "tiebreaker": -68
-    },
-    {
-        "team": "Big Winner",
-        "player1": "Jordan Spieth",
-        "player2": "Charlie Hoffman",
-        "player3": "Lucas Glover",
-        "player4": "Gary Woodland",
-        "player5": "Matt Kuchar",
+        "team": "Eric Baker",
+        "player1": "Bryson DeChambeau",
+        "player2": "Justin Thomas",
+        "player3": "Dustin Johnson",
+        "player4": "Matt Kuchar",
+        "player5": "Sebastian Munoz",
         "tiebreaker": -33
+    },
+    {
+        "team": "Norm Bolen",
+        "player1": "Jordan Spieth",
+        "player2": "Patrick Reed",
+        "player3": "Bryson DeChambeau",
+        "player4": "Billy Horschel",
+        "player5": "Zach Johnson",
+        "tiebreaker": -69
+    },
+    {
+        "team": "Tim Burroughs",
+        "player1": "Dustin Johnson",
+        "player2": "Rory McIlroy",
+        "player3": "Adam Scott",
+        "player4": "Gary Woodland",
+        "player5": "Ryan Palmer",
+        "tiebreaker": -15
+    },
+    {
+        "team": "Ty Clack",
+        "player1": "Dustin Johnson",
+        "player2": "Brooks Koepka",
+        "player3": "Hideki Matsuyama",
+        "player4": "Si Woo Kim",
+        "player5": "Kevin Na",
+        "tiebreaker": -68
     }
 ]
