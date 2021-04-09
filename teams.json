@@ -186,7 +186,7 @@
         "player2": "Justin Thomas",
         "player3": "Bryson DeChambeau",
         "player4": "Louis Oosthuizen",
-        "player5": "Byeong Hun An"
+        "player5": "Larry Mize"
     },
     {
         "team": "John Thigpin",
@@ -214,5 +214,14 @@
         "player3": "Patrick Cantlay",
         "player4": "Shane Lowry",
         "player5": "Bernd Wiesberger"
+    },
+    {
+        "team": "Paul Sanchez",
+        "tiebreaker": "-35",
+        "player1": "Justin Thomas",
+        "player2": "Collin Morikawa",
+        "player3": "Cameron Smith",
+        "player4": "Si Woo Kim",
+        "player5": "Lanto Griffin"
     }
 ]
